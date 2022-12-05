@@ -37,27 +37,7 @@ which will be listed below in Bosnian:
    (koji predstavlja postotak), a ostali su objekt tipa Teacher kojima je
    potrebno povecati placu za zadani postotak.<br><br>
 
-5. Napisite glavni program u kojem cete kreirati polje od 5 osoba
-   i u njega staviti 3 nastavnika i dva studenta. Nakon toga program
-   treba u petlji ispisati ime i prezime svake osobe te na kraju
-   petlje prosjecnu placu svih nastavnika koji se pojavljuju u polju.
-   Takoder, za sljedeci isjecak koda:<br><br>
-   Person p1 = new Person("Ivo", "Ivic", 20);<br>
-   Person p2 = new Person("Ivo", "Ivic", 20);<br>
-   Student p3 = new Student("Ivo", "Ivic", 20, "0036312123", (short)3);<br>
-   Student p4 = new Student("Marko", "Markovic", 25, "0036312123", (short)5);<br>
-   <br>
-    System.out.println(p1.equals(p2));<br>
-    System.out.println(p1.equals(p4));<br>
-    System.out.println(p3.equals(p4));<br>
-    System.out.println();<br>
-   Ocekuje ovakav ispis:<br>
-   true<br>
-   false<br>
-   true<br>
-   <br>
-
-6. Nastavnici se natjecu u fakultetskom "Master Chef" natjecanju, u kojem
+5. Nastavnici se natjecu u fakultetskom "Master Chef" natjecanju, u kojem
    svaki nastavnik priprema jedan desert, a studenti ih ocjenjuju. Za to
    cemo napraviti klasu Competition Entry koja sadrzi referencu na jedan
    objekt tipa Teacher (osoba koja je pripremila desert), referencu na jedan
@@ -70,7 +50,7 @@ which will be listed below in Bosnian:
    ponavljati). Napisite i metodu getRating koja vraca prosjecnu ocjenu svih
    ocjenu svih studenata koji su ocjenili neki CompetitionEntry.<br><br>
 
-7. Napravite klasu UniMasterChef koja sadrzi polje referenci tipa
+6. Napravite klasu UniMasterChef koja sadrzi polje referenci tipa
    CompetitionEntry, metodu addEntry (po uzoru na metodu addRating),
    metodu getBestDessert koja ce vratiti najbolje ocijenjeni desert,
    kao i staticku metodu getInvolvedPeople koja prima argument tipa

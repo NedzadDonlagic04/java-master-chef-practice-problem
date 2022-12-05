@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69a78ac7-698a-4857-aac4-53a53320a522" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master-chef-practice-problem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompetitionEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dessert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniMasterChef.java" afterDir="false" />
-    </list>
+    <list default="true" id="69a78ac7-698a-4857-aac4-53a53320a522" name="Changes" comment="Finished project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +56,28 @@
       <option name="presentableId" value="Default" />
       <updated>1669898754206</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added gitignore">
+      <created>1669928547420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669928547420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added README">
+      <created>1669928555152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669928555152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished project">
+      <created>1669928566238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669928566238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +90,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added gitignore" />
+    <MESSAGE value="Added README" />
+    <MESSAGE value="Finished project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished project" />
   </component>
 </project>
